@@ -1,4 +1,5 @@
 # ftaqy.github.io
+README.MD
 let nama, val;
 const url_string = document.URL;
 const url = new URL(url_string);
